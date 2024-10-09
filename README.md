@@ -32,13 +32,13 @@ The dataset was processed using **Power Query** for data cleaning and **DAX** fo
 This dashboard was created to help AtliQ Grands’ leadership visualize key business metrics, including:
 - **Revenue Trends**: Providing visibility into how revenue has evolved over time.
 - **Occupancy Rates**: Tracking the percentage of rooms occupied across properties.
-- **Cancellation Rates**: Highlighting the frequency of cancellations and their impact on revenue.
+- **Cancellation Rates**: Highlighting the frequency of cancellations.
+- **Average length of stay**: Identifying patterns in customer stays, helping with forecasting and pricing strategies.
 - **Customer Satisfaction**: Analyzing customer ratings from feedback received post-stay.
 
 The dashboard features interactive **slicers** for filtering by **property name, city, booking platform, booking status, week number,** and **month**, offering a tailored view of performance across different dimensions.
 
-![Power BI Dashboard Preview](https://via.placeholder.com/800x400.png)  
-*Placeholder for Power BI Dashboard*
+![Power BI Dashboard Preview](Hospitalty_dashboard.png)  
 
 ---
 
