@@ -54,7 +54,7 @@ The insights generated from the dashboard highlight the following:
 
 ![Donut Chart](donut_chart.png)  
 
-![Line chart](line_chart.png)  
+![Line chart](Line_chart.png)  
 
 ![Bar chart](Bar_chart.png)  
 
