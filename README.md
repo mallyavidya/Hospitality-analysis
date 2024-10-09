@@ -1,11 +1,11 @@
-# 📊 AtliQ Grands Hospitality Analysis Dashboard
+#  AtliQ Grands Hospitality Analysis Dashboard
 
 **Date**: October 9, 2024  
 **Role**: Data Analyst, AtliQ Grands  
 **Technologies**: Power BI, Power Query, DAX, Data Cleaning, Data Visualization  
 **Data Source**: AtliQ Grands Historical Data
 
-## 🚀 Project Overview
+##  Project Overview
 
 ### 1. Background and Overview
 
@@ -13,7 +13,7 @@ AtliQ Grands, a chain of luxury/business hotels in India, has been losing market
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 ### 2. Data Structure and Overview
 
@@ -25,7 +25,7 @@ The dataset was processed using **Power Query** for data cleaning and **DAX** fo
 
 ---
 
-## 🔧 Key Features
+##  Key Features
 
 ### 3. Executive Summary
 
@@ -42,21 +42,21 @@ The dashboard features interactive **slicers** for filtering by **property name,
 
 ---
 
-## 📈 Dashboard Components
+##  Dashboard Components
 
 ### 4. Insights and Deep Dive
 
 The insights generated from the dashboard highlight the following:
-- **Revenue Trends**: Properties in metropolitan areas show a steady revenue stream, while properties in smaller cities are struggling.
+- **Revenue Trends**: Revenue trends by cities
 - **Occupancy Rates**: Some properties exhibit consistently low occupancy, which correlates with higher cancellation rates.
 - **Booking Platform Insights**: Certain platforms have a higher share of cancellations, negatively impacting overall revenue.
 - **Customer Ratings**: Properties in major cities show higher customer satisfaction, while lower-rated properties are concentrated in Tier-2 cities.
 
-![Pie Chart Example](https://via.placeholder.com/400x300.png)  
-*Customer Segmentation Pie Chart*
+[Donut Chart](donut chart.png)  
 
-![Map Visualization Example](https://via.placeholder.com/400x300.png)  
-*Geographic Distribution of Customers*
+[Line chart](line chart.png)  
+
+[Bar chart](Bar chart.png)  
 
 ---
 
@@ -64,32 +64,25 @@ The insights generated from the dashboard highlight the following:
 
 Based on these findings, I recommend the following actions to improve performance and revenue for AtliQ Grands:
 
-- **Focus on Underperforming Properties**: Develop targeted marketing strategies for properties with low occupancy and high cancellation rates, especially in Tier-2 cities.
+- **Focus on Underperforming Properties**: Develop targeted marketing strategies for properties with low occupancy and high cancellation rates.
 - **Partnership Optimization**: Reevaluate booking platform partnerships that are contributing to higher cancellation rates.
 - **Customer Experience Enhancement**: Prioritize improvements at properties with lower customer satisfaction scores by addressing the feedback gathered from ratings.
-- **Maximize High-Performing Periods**: Take advantage of seasonal booking trends by offering promotions or loyalty programs during peak booking periods to drive additional revenue.
 - **Localized Promotions**: Implement region-specific offers based on city-level performance data to boost occupancy and customer retention.
 
 ---
 
-## 🛠️ Technologies and Tools Used
+##  Technologies and Tools Used
 
 - **Power BI** for creating an interactive dashboard and visualizing key metrics.
 - **Power Query** for transforming and cleaning the raw data.
-- **DAX** (Data Analysis Expressions) to calculate metrics like revenue trends, occupancy rates, and customer feedback.
+- **DAX** (Data Analysis Expressions) to calculate metrics like revenue trends, occupancy rates, and customer Ratings.
 
 ---
 
-## 🔍 Insights & Recommendations
-
-This dashboard serves as a strategic tool for AtliQ Grands' management, providing them with clear insights into their revenue, occupancy, and customer satisfaction performance. By addressing the issues revealed through this analysis, AtliQ Grands can regain its competitive edge and drive sustainable growth.
+**[Download Power BI Dashboard](#https://app.powerbi.com/view?r=eyJrIjoiMWE0MmRhOGEtYmFmYS00NTc3LTkzZjgtNzVhMDkwMmMwZGUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 ---
 
-**[Download Power BI Dashboard](#)**
-
----
-
-**Presented by Vidyalaxmi Mallya, Data Analyst, AtliQ Grands**
+**Presented by Vidyalaxmi Mallya, Data Analyst.**
 
 ---
