@@ -52,11 +52,11 @@ The insights generated from the dashboard highlight the following:
 - **Booking Platform Insights**: Certain platforms have a higher share of cancellations, negatively impacting overall revenue.
 - **Customer Ratings**: Properties in major cities show higher customer satisfaction, while lower-rated properties are concentrated in Tier-2 cities.
 
-[Donut Chart](donut chart.png)  
+![Donut Chart](donut chart.png)  
 
-[Line chart](line chart.png)  
+![Line chart](line chart.png)  
 
-[Bar chart](Bar chart.png)  
+![Bar chart](Bar chart.png)  
 
 ---
 
